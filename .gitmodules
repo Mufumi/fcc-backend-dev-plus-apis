@@ -1,0 +1,9 @@
+[submodule "boilerplate-npm"]
+	path = boilerplate-npm
+	url = https://github.com/Mufumi/boilerplate-npm
+[submodule "boilerplate-express"]
+	path = boilerplate-express
+	url = https://github.com/Mufumi/boilerplate-express
+[submodule "boilerplate-mongomongoose"]
+	path = boilerplate-mongomongoose
+	url = https://github.com/Mufumi/boilerplate-mongomongoose
