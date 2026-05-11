@@ -1,0 +1,9 @@
+[submodule "boilerplate-npm"]
+	path = boilerplate-npm
+	url = https://github.com/freeCodeCamp/boilerplate-npm.git
+[submodule "boilerplate-express"]
+	path = boilerplate-express
+	url = https://github.com/freeCodeCamp/boilerplate-express.git
+[submodule "boilerplate-mongomongoose"]
+	path = boilerplate-mongomongoose
+	url = https://github.com/freeCodeCamp/boilerplate-mongomongoose.git
