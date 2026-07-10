@@ -25,13 +25,11 @@ fcc-backend-dev-plus-apis/
 │  │   └── styles.css 
 |  |─── views/
 │  │   └── index.html
-|  |─── README
 |  |─── myApp.js
 |  └─── server.js
 ├── boilerplate-mongomongoose/       # Mongo-mongoose submodule
 |  |─── views/
 │  │   └── index.html
-|  |─── README
 |  |─── myApp.js
 |  |─── sample.env
 |  └─── server.js
@@ -40,11 +38,10 @@ fcc-backend-dev-plus-apis/
 │  │   └── styles.css 
 |  |─── views/
 │  │   └── index.html
-|  |─── README
 |  └─── server.js
 └── README            # Primary README
 ```
-**Note:** .gitignore, .gitpod.yml, lock and package files have been omitted from structure
+**Note:** .gitignore, .gitpod.yml, README, lock and package files have been omitted from structure
 
 ## Notes
 
