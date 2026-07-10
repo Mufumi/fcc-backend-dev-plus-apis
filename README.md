@@ -16,6 +16,36 @@ After using all three options, however, I completed it on Github's Codespaces.
 
 For cleaner development, I chose to fork the boilerplate repos for the [NPM](https://github.com/freeCodeCamp/boilerplate-npm/), [Express](https://github.com/freeCodeCamp/boilerplate-express/) and [Mongo-Mongoose](https://github.com/freeCodeCamp/boilerplate-mongomongoose/) sections.
 
+## File Structure
+
+```
+fcc-backend-dev-plus-apis/
+├── boilerplate-express/             # Express submodule
+|  |─── public/
+│  │   └── styles.css 
+|  |─── views/
+│  │   └── index.html
+|  |─── README
+|  |─── myApp.js
+|  └─── server.js
+├── boilerplate-mongomongoose/       # Mongo-mongoose submodule
+|  |─── views/
+│  │   └── index.html
+|  |─── README
+|  |─── myApp.js
+|  |─── sample.env
+|  └─── server.js
+├── boilerplate-npm/                 # npm submodule
+|  |─── public/
+│  │   └── styles.css 
+|  |─── views/
+│  │   └── index.html
+|  |─── README
+|  └─── server.js
+└── README            # Primary README
+```
+**Note:** .gitignore, .gitpod.yml, lock and package files have been omitted from structure
+
 ## Notes
 
 Deprecation - A bulk of the sections covered content that was either deprecated or legacy.
